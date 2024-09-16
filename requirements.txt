@@ -1,4 +1,6 @@
-streamlit==1.22.0  # You can also upgrade it to the latest
-torch==2.3.0  # Change the torch version based on what’s available
-Pillow==9.5.0
-numpy==1.25.0
+streamlit==1.22.0
+torch==2.3.1  # Compatible version of torch
+Pillow
+numpy
+setuptools>=42.0.0
+distlib
